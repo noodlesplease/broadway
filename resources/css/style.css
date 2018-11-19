@@ -1,0 +1,19 @@
+body{
+  font-family: Helvetica;
+  text-align: center;
+  background-image:url("/Users/rebeccaaguilar/Desktop/git_practice/broadway/resources/images/background.png");
+  background-size: auto;
+}
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.nav{
+  font-size: 18px;
+  color: white;
+  font-weight: lighter;
+}
+.process{
+  background-color: white;
+}
