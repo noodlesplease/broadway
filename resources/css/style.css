@@ -1,8 +1,13 @@
 body{
   font-family: Helvetica;
   text-align: center;
+  margin: 0px
+  line-height: 1.5;
+}
+.flatiron{
   background-image:url("/Users/rebeccaaguilar/Desktop/git_practice/broadway/resources/images/background.png");
   background-size: auto;
+  background-repeat: no-repeat;
 }
 h1{
   font-size: 70px;
@@ -14,6 +19,24 @@ h1{
   color: white;
   font-weight: lighter;
 }
+.nav2{
+  font-size: 13px;
+  color: white;
+  font-weight: lighter;
+}
 .process{
   background-color: white;
+}
+.footer1{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
